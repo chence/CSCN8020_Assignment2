@@ -14,7 +14,7 @@ This project implements Q-Learning in the Taxi Gymnasium environment. The taxi a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USRID/CSCN8020_Assignment2.git
+git clone https://github.com/chence/CSCN8020_Assignment2.git
 cd CSCN8020_Assignment2
 ```
 
